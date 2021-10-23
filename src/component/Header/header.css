@@ -1,0 +1,17 @@
+h1 {
+  font-size: 2rem;
+  line-height: 3.5rem;
+  font-weight: 900;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border-bottom: 2px solid violet;
+  display: inline-block;
+}
+
+.primary {
+  color: black;
+}
+
+.secondary {
+  color: tomato;
+}
